@@ -1,7 +1,8 @@
 # Ambientika's API documentation:
 # https://app.ambientika.eu:4521/swagger/index.html
 
-@server = https://app.ambientika.eu:4521
+#@server = https://app.ambientika.eu:4521
+@server = https://www.app-oerre.it:4521
 @username = john.doe@mail.me
 @password = my-Password
 
